@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Anton%20Abby&fontSize=42&fontColor=ffffff&desc=Aspiring%20Data%20Analyst&descSize=18&descAlignY=70" width="100%"/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonabby11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-abby/)
 
 </div>
 
@@ -80,22 +80,12 @@ Analyzed bike sales data using **Excel and Power BI** to explore customer behavi
 - Customer segmentation
 - Sales trend analysis
 
-### ⚽ Football Analytics
 
-Exploring football data through **Python, statistical analysis, visualization, and analytical methods** to investigate team performance and trends.
 
 ## 📜 Certifications
 
 - 🎓 **AI-Driven Data Analytics Foundational** — Illinois Tech / NSDC
-- 🎓 **Python for Data Science** — NPTEL
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -103,9 +93,9 @@ Exploring football data through **Python, statistical analysis, visualization, a
 
 📧 **Email:** [antonabby11@gmail.com](mailto:antonabby11@gmail.com)
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anton-abby/)
 
-🐙 **GitHub:** [Explore my projects](https://github.com/YOUR_GITHUB_USERNAME)
+🐙 **GitHub:** [Explore my projects](https://github.com/anton2423865)
 
 ---
 
