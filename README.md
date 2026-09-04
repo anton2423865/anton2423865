@@ -28,7 +28,7 @@ I enjoy working with data to uncover patterns, generate insights, and communicat
 ### Programming & Querying
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 ### Databases
 
