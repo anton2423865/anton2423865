@@ -108,8 +108,7 @@ Analyzed bike sales data using **Excel and Power BI** to explore customer behavi
 
 <div align="center">
 
-[![Thanks for Visiting](https://img.shields.io/badge/Thanks%20for%20Visiting-2E3192?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anton2423865)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=150&section=footer&text=Thank%20You%20for%20Visiting&fontSize=32&fontColor=ffffff&desc=See%20you%20around!&descSize=16&descAlignY=70" width="100%"/>
 
 </div>
-
 
