@@ -106,5 +106,10 @@ Analyzed bike sales data using **Excel and Power BI** to explore customer behavi
 
 *Always learning, building, and exploring with data.*
 
+<div align="center">
+
+[![Thanks for Visiting](https://img.shields.io/badge/Thanks%20for%20Visiting-2E3192?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anton2423865)
+
 </div>
+
 
